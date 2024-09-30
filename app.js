@@ -7,3 +7,4 @@ function dodaj(){
 
     document.getElementById("h1").innerHTML = costam
 }
+//praca domowa
